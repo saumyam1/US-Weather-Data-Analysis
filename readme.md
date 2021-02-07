@@ -41,10 +41,10 @@ We are given 12 Months Of Record-Setting Temperatures Across The U.S. In the cod
 
 Below are the links to the Tableau dashboards, to see how temperature and precipitation changes over the years for different cities across the US.
 
-![Tableau Temperature Distribution](https://public.tableau.com/profile/saumya4852#!/vizhome/AveragetemperatureDistribution/Sheet1)
+[Tableau Temperature Distribution](https://public.tableau.com/profile/saumya4852#!/vizhome/AveragetemperatureDistribution/Sheet1)
 
 
-![Tableau Temperature Map](https://public.tableau.com/profile/saumya4852#!/vizhome/Temperaturemap_16126530357340/Sheet1)
+[Tableau Temperature Map](https://public.tableau.com/profile/saumya4852#!/vizhome/Temperaturemap_16126530357340/Sheet1)
 
 
-![Tableau Precipitation Map](https://public.tableau.com/profile/saumya4852#!/vizhome/Precipitationmap/Sheet1?publish=yes])
+[Tableau Precipitation Map](https://public.tableau.com/profile/saumya4852#!/vizhome/Precipitationmap/Sheet1?publish=yes%5D)
